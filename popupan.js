@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://noithatdoanhkhoi.com.vn/san-pham/ban-ghe-an/';
+	var url_popup = 'http://noithatdoanhkhoi.com.vn/san-pham/ban-ghe-an';
 
       //<![CDATA[
-	  // var url_ppp = 'http://noithatdoanhkhoi.com.vn/san-pham/ban-ghe-an/';
+	  // var url_ppp = 'http://noithatdoanhkhoi.com.vn/san-pham/ban-ghe-an';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
